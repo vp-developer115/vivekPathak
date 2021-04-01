@@ -1,0 +1,10 @@
+public class AccountDetail(){
+
+public static List<Account> GetAccount(){
+
+return[select id,Name from Account];
+
+}
+
+
+}
